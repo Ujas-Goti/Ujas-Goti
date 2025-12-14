@@ -1,73 +1,89 @@
-<h1 align="center">👋 Hi, I'm Ujas Goti</h1>
-<h3 align="center">Aspiring Software Engineer | Backend Developer | AI Agent Builder</h3>
+<h1 align="center">👋 Hello, I'm <strong>Ujas Goti</strong></h1>
+<h3 align="center">Software Engineering Student | Backend Developer | AI Agent Builder | Tech Organizer</h3>
 
 <p align="center">
   <a href="mailto:ugoti@horizon.csueastbay.edu">Email</a> •
-  <a href="https://www.linkedin.com/in/ujas-goti/">LinkedIn</a> •
+  <a href="https://linkedin.com/in/ujas-goti">LinkedIn</a> •
   <a href="https://github.com/Ujas-Goti">GitHub</a> •
-  <a href="https://your-portfolio-link.com/">Portfolio</a>
+  <a href="#">Portfolio</a>
 </p>
 
 ---
 
-## 🚀 About Me  
-That curious tech enthusiast who loves solving real problems.  
-Aspiring SWE with experience in backend development, AI agent systems, and full-stack applications.
+## 💫 About Me
+A curious tech enthusiast passionate about **backend development**, **AI agents**, **cloud computing**, and **scalable systems**.  
+I enjoy building things that solve real-world problems and leading technical communities.
 
-- Passionate about **Java, Python, scalable systems, and cloud engineering**  
-- Experienced in **building AI agents**, automation tools, microservices, and real-time apps  
-- Strong leadership background through **HackHayward** and **Google Developer Groups on Campus**
-
----
-
-## 🛠 Technical Skills
-
-**Languages:** Python, Java, C++, C#, C, JavaScript, Ruby, SQL  
-**Web Development:** React.js, Node.js, Flask, ASP.NET, PHP, Ruby on Rails  
-**AI & ML:** LangChain, LangGraph, Gemini, Vertex AI, LLM Agents  
-**Mobile:** Android Studio, Xamarin, Flutter  
-**Cloud & DevOps:** AWS, Google Cloud, Docker, Kubernetes, Jenkins, CI/CD  
-**Databases:** MySQL, Firebase, PostgreSQL, MongoDB, SQL Server  
-**Backend & APIs:** REST, GraphQL, Microservices  
-**Testing:** JUnit, Unit & Integration Testing  
-**Networking:** TCP/IP, Apache Tomcat, Microsoft IIS  
-**Methodologies:** Agile, Scrum  
+- 🔭 Working on scalable backend systems & AI tools  
+- 🤖 Passionate about LLM Agent Development (LangChain, LangGraph, Gemini, Vertex AI)  
+- ☁️ Experienced with AWS, Google Cloud, Docker, Kubernetes  
+- 🧩 Organizer of HackHayward and Google Developer Groups on Campus  
+- 🎯 Seeking SWE Internships and AI/Backend roles  
 
 ---
 
-## 📂 Featured Projects
+## 🛠️ Technical Skills
 
-> Replace with your best repos — these cards update automatically once linked.
+### **Languages**
+Python • Java • C++ • C# • C • JavaScript • Ruby • SQL  
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Ujas-Goti&repo=ujasgotiprofolio&theme=tokyonight)](https://github.com/Ujas-Goti/ujasgotiprofolio)
-[![AI Agent Tool](https://github-readme-stats.vercel.app/api/pin/?username=Ujas-Goti&repo=AI-agent-tool&theme=tokyonight)](https://github.com/Ujas-Goti/AI-agent-tool)
-[![Communication System](https://github-readme-stats.vercel.app/api/pin/?username=Ujas-Goti&repo=CS401_Group-4_Communications_System&theme=tokyonight)](https://github.com/Ujas-Goti/CS401_Group-4_Communications_System)
-[![LeetCode Solutions](https://github-readme-stats.vercel.app/api/pin/?username=Ujas-Goti&repo=leetcode&theme=tokyonight)](https://github.com/Ujas-Goti/leetcode)
+### **Backend & APIs**
+Node.js • Flask • ASP.NET • GraphQL • Microservices • REST APIs  
+
+### **AI & ML**
+LLMs • LangChain • LangGraph • Gemini • Vertex AI • AI Agent Development  
+
+### **Frontend & Mobile**
+React.js • Flutter • Android Studio • Xamarin  
+
+### **Cloud & DevOps**
+AWS • Google Cloud • Docker • Kubernetes • Jenkins • CI/CD  
+
+### **Databases**
+MySQL • PostgreSQL • MongoDB • Firebase • SQL Server  
+
+---
+
+## 📂 All My GitHub Repositories
+> This section links to **all your repositories**, no matter how many you have.
+
+🔗 **Browse All Repos:**  
+https://github.com/Ujas-Goti?tab=repositories
+
+---
+
+## 📊 GitHub Stats (ALL COMMITS ENABLED)
+
+### ✔️ Total Commits + Repo Stats  
+![Ujas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ujas-Goti&show_icons=true&include_all_commits=true&theme=tokyonight)
+
+### ✔️ Most Used Languages  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ujas-Goti&layout=compact&theme=tokyonight)
+
+### ✔️ Contribution Streak  
+![Streak Stats](https://streak-stats.demolab.com?user=Ujas-Goti&theme=tokyonight)
 
 ---
 
 ## 🧠 Experience
 
-### **Co-Founder & President — HackHayward**  
-- Organized hackathons for **200+ participants**  
-- Managed Technical, Marketing, Logistics & Outreach teams  
-- Secured **$18,000 sponsorships** and 8+ partnerships (Google, AWS, Groq, PerplexityAI, CS Dept.)  
-- Leading a nonprofit to empower student innovators  
+### **Co-Founder & President — HackHayward**
+- Managed hackathons with 200+ participants  
+- Secured **$18,000** funding & partnerships (Google, AWS, Groq, PerplexityAI, CSUEB)  
+- Led Technical, Marketing, Logistics & Outreach teams  
 
-### **President — Google Developer Groups on Campus, CSUEB**  
-- Led workshops, tech bootcamps, speaker sessions  
-- Hosted hackathons & student developer events  
-- Strengthened collaboration across departments  
+### **President — Google Developer Groups on Campus**
+- Hosted engineering workshops & industry speaker events  
+- Organized hackathons & collaborative tech events  
 
-### **Software Engineering Fellow — Headstarter AI**  
-- Built AI-powered tools for automation & reasoning  
+### **Software Engineering Fellow — Headstarter AI**
+- Built AI-powered automation tools  
+- Designed LLM-based agent reasoning workflows  
 - Collaborated with industry mentors  
-- Implemented agentic workflows using LLMs  
 
-### **Software Engineering Intern — KIT Solutions**  
-- Built ERP-based backend modules  
-- Developed APIs in Java & Python  
-- Contributed to SaaS architecture
+### **Software Engineering Intern — KIT Solutions**
+- Built ERP backend APIs using Java & Python  
+- Worked on SaaS product architecture  
 
 ---
 
@@ -75,21 +91,12 @@ Aspiring SWE with experience in backend development, AI agent systems, and full-
 
 **California State University, East Bay**  
 Bachelor of Science in Computer Science  
-📍 *Jan 2023 – Dec 2026*  
-**GPA:** 3.74 / 4.0  
+📍 *2023 – 2026*  
+GPA: **3.74 / 4.0**
 
 **Gujarat Technological University**  
 Diploma in Information Technology  
-**GPA:** 9.8 / 10  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ujas-Goti&show_icons=true&theme=tokyonight" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujas-Goti&layout=compact&theme=tokyonight" height="180">
-</p>
+GPA: **9.8 / 10**
 
 ---
 
@@ -109,5 +116,4 @@ Diploma in Information Technology
 
 ---
 
-⭐ **Thanks for visiting my profile!**  
-I'm always learning, building, and collaborating 🚀  
+⭐ **Thanks for visiting my profile! Always building, learning, and collaborating 🚀**
