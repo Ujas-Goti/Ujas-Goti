@@ -135,7 +135,6 @@ I love building things that **actually solve problems**, leading developer commu
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ujas-Goti&show_icons=true&include_all_commits=true&theme=tokyonight" height="165" />
-  <img src="https://ghchart.rshah.org/22D3EE/Ujas-Goti" alt="Contribution Graph" />
 </p>
 
 ---
