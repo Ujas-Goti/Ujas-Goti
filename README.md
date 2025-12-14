@@ -1,6 +1,8 @@
-<!-- Animated Header with Typing Effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Ujas+Goti+👋;Backend+Developer+%7C+AI+Agent+Builder;Cloud+%7C+Systems+%7C+Hackathons" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Ujas+Goti+👋;Backend+Developer+%7C+AI+Agent+Builder;Cloud+%7C+Systems+%7C+Hackathons"
+    alt="Typing introduction"
+  />
 </div>
 
 <p align="center">
@@ -22,252 +24,118 @@ I love building things that **actually solve problems**, leading developer commu
 
 ---
 
-## ✨ Tech Stack (Neon Mode)
+## ✨ Tech Stack (Neon-ish)
 
-<div align="center">
-
+<p align="center">
   <!-- Languages -->
-  <div style="margin-bottom:10px;">
-    <span style="display:inline-block; margin:4px; padding:6px 12px; background:#111827; border-radius:9999px; border:1px solid #22D3EE; color:#9CA3AF; font-size:13px;">Python</span>
-    <span style="display:inline-block; margin:4px; padding:6px 12px; background:#111827; border-radius:9999px; border:1px solid #22D3EE; color:#9CA3AF; font-size:13px;">Java</span>
-    <span style="display:inline-block; margin:4px; padding:6px 12px; background:#111827; border-radius:9999px; border:1px solid #22D3EE; color:#9CA3AF; font-size:13px;">C++</span>
-    <span style="display:inline-block; margin:4px; padding:6px 12px; background:#111827; border-radius:9999px; border:1px solid #22D3EE; color:#9CA3AF; font-size:13px;">C#</span>
-    <span style="display:inline-block; margin:4px; padding:6px 12px; background:#111827; border-radius:9999px; border:1px solid #22D3EE; color:#9CA3AF; font-size:13px;">JavaScript</span>
-    <span style="display:inline-block; margin:4px; padding:6px 12px; background:#111827; border-radius:9999px; border:1px solid #22D3EE; color:#9CA3AF; font-size:13px;">SQL</span>
-  </div>
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=c%2B%2B&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/C%23-111827?style=for-the-badge&logo=dotnet&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=mysql&logoColor=22D3EE" />
+</p>
 
-  <!-- Web / Backend -->
-  <div style="margin-bottom:10px;">
-    <span style="display:inline-block; margin:4px; padding:6px 12px; background:#111827; border-radius:9999px; border:1px solid #22D3EE; color:#9CA3AF; font-size:13px;">React.js</span>
-    <span style="display:inline-block; margin:4px; padding:6px 12px; background:#111827; border-radius:9999px; border:1px solid #22D3EE; color:#9CA3AF; font-size:13px;">Node.js</span>
-    <span style="display:inline-block; margin:4px; padding:6px 12px; background:#111827; border-radius:9999px; border:1px solid #22D3EE; color:#9CA3AF; font-size:13px;">Flask</span>
-    <span style="display:inline-block; margin:4px; padding:6px 12px; background:#111827; border-radius:9999px; border:1px solid #22D3EE; color:#9CA3AF; font-size:13px;">ASP.NET</span>
-    <span style="display:inline-block; margin:4px; padding:6px 12px; background:#111827; border-radius:9999px; border:1px solid #22D3EE; color:#9CA3AF; font-size:13px;">REST APIs</span>
-    <span style="display:inline-block; margin:4px; padding:6px 12px; background:#111827; border-radius:9999px; border:1px solid #22D3EE; color:#9CA3AF; font-size:13px;">GraphQL</span>
-  </div>
+<p align="center">
+  <!-- Backend / Web -->
+  <img src="https://img.shields.io/badge/React.js-111827?style=for-the-badge&logo=react&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/ASP.NET-111827?style=for-the-badge&logo=dotnet&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/REST%20APIs-111827?style=for-the-badge&logo=fastapi&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/GraphQL-111827?style=for-the-badge&logo=graphql&logoColor=22D3EE" />
+</p>
 
-  <!-- AI / Cloud / DevOps -->
-  <div style="margin-bottom:10px;">
-    <span style="display:inline-block; margin:4px; padding:6px 12px; background:#111827; border-radius:9999px; border:1px solid #22D3EE; color:#9CA3AF; font-size:13px;">LangChain</span>
-    <span style="display:inline-block; margin:4px; padding:6px 12px; background:#111827; border-radius:9999px; border:1px solid #22D3EE; color:#9CA3AF; font-size:13px;">LangGraph</span>
-    <span style="display:inline-block; margin:4px; padding:6px 12px; background:#111827; border-radius:9999px; border:1px solid #22D3EE; color:#9CA3AF; font-size:13px;">Gemini</span>
-    <span style="display:inline-block; margin:4px; padding:6px 12px; background:#111827; border-radius:9999px; border:1px solid #22D3EE; color:#9CA3AF; font-size:13px;">Vertex AI</span>
-    <span style="display:inline-block; margin:4px; padding:6px 12px; background:#111827; border-radius:9999px; border:1px solid #22D3EE; color:#9CA3AF; font-size:13px;">AWS</span>
-    <span style="display:inline-block; margin:4px; padding:6px 12px; background:#111827; border-radius:9999px; border:1px solid #22D3EE; color:#9CA3AF; font-size:13px;">Google Cloud</span>
-    <span style="display:inline-block; margin:4px; padding:6px 12px; background:#111827; border-radius:9999px; border:1px solid #22D3EE; color:#9CA3AF; font-size:13px;">Docker</span>
-    <span style="display:inline-block; margin:4px; padding:6px 12px; background:#111827; border-radius:9999px; border:1px solid #22D3EE; color:#9CA3AF; font-size:13px;">Kubernetes</span>
-  </div>
+<p align="center">
+  <!-- AI / Cloud -->
+  <img src="https://img.shields.io/badge/LangChain-111827?style=for-the-badge&logo=python&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/LangGraph-111827?style=for-the-badge&logo=python&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/Gemini-111827?style=for-the-badge&logo=google&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/Vertex%20AI-111827?style=for-the-badge&logo=googlecloud&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-111827?style=for-the-badge&logo=googlecloud&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/Kubernetes-111827?style=for-the-badge&logo=kubernetes&logoColor=22D3EE" />
+</p>
 
+<p align="center">
   <!-- DB / Tools -->
-  <div>
-    <span style="display:inline-block; margin:4px; padding:6px 12px; background:#111827; border-radius:9999px; border:1px solid #22D3EE; color:#9CA3AF; font-size:13px;">PostgreSQL</span>
-    <span style="display:inline-block; margin:4px; padding:6px 12px; background:#111827; border-radius:9999px; border:1px solid #22D3EE; color:#9CA3AF; font-size:13px;">MongoDB</span>
-    <span style="display:inline-block; margin:4px; padding:6px 12px; background:#111827; border-radius:9999px; border:1px solid #22D3EE; color:#9CA3AF; font-size:13px;">Firebase</span>
-    <span style="display:inline-block; margin:4px; padding:6px 12px; background:#111827; border-radius:9999px; border:1px solid #22D3EE; color:#9CA3AF; font-size:13px;">MySQL</span>
-    <span style="display:inline-block; margin:4px; padding:6px 12px; background:#111827; border-radius:9999px; border:1px solid #22D3EE; color:#9CA3AF; font-size:13px;">GitHub</span>
-  </div>
-
-</div>
+  <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/Firebase-111827?style=for-the-badge&logo=firebase&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=22D3EE" />
+</p>
 
 ---
 
 ## 🛰 Neon Projects Hub
 
-> Click a section to expand. Each repo card uses grey background + neon curved border and non-blue link text.
-
-### Cloud | Systems | Hackathons
-
-<!-- AI & Agentic Systems -->
-<details open>
-  <summary>
-    <b style="color:#22D3EE;">🤖 AI & Agentic Systems</b>
-  </summary>
-  <br/>
-
-  <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:16px;">
-
-    <a href="https://github.com/Ujas-Goti/AI-agent-tool" style="text-decoration:none;">
-      <div style="min-width:260px; max-width:420px; padding:16px 18px; border-radius:18px; border:2px solid #22D3EE; background-color:#111827; box-shadow:0 0 18px #22D3EE40;">
-        <div style="font-weight:600; color:#E5E7EB; font-size:15px; margin-bottom:4px;">
-          AI-agent-tool
-        </div>
-        <div style="color:#9CA3AF; font-size:13px;">
-          AI agent that assists with code explanation, documentation generation, and troubleshooting using LLMs (LangChain + Gemini).
-        </div>
-      </div>
-    </a>
-
-    <a href="https://github.com/Ujas-Goti/GoogleADK" style="text-decoration:none;">
-      <div style="min-width:260px; max-width:420px; padding:16px 18px; border-radius:18px; border:2px solid #22D3EE; background-color:#111827; box-shadow:0 0 18px #22D3EE40;">
-        <div style="font-weight:600; color:#E5E7EB; font-size:15px; margin-bottom:4px;">
-          GoogleADK
-        </div>
-        <div style="color:#9CA3AF; font-size:13px;">
-          Experiments with Google Agent Development Kit, LLM tooling, and cloud-native agent workflows.
-        </div>
-      </div>
-    </a>
-
-    <a href="https://github.com/Ujas-Goti/restack_weaviate_curriculum" style="text-decoration:none;">
-      <div style="min-width:260px; max-width:420px; padding:16px 18px; border-radius:18px; border:2px solid #22D3EE; background-color:#111827; box-shadow:0 0 18px #22D3EE40;">
-        <div style="font-weight:600; color:#E5E7EB; font-size:15px; margin-bottom:4px;">
-          restack_weaviate_curriculum
-        </div>
-        <div style="color:#9CA3AF; font-size:13px;">
-          Vector DB + AI experiments with Weaviate, retrieval pipelines, and curriculum-style learning.
-        </div>
-      </div>
-    </a>
-
-  </div>
-</details>
-
-<!-- Systems & Backends -->
-<details>
-  <summary>
-    <b style="color:#22D3EE;">🛰 Systems & Scalable Backends</b>
-  </summary>
-  <br/>
-
-  <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:16px;">
-
-    <a href="https://github.com/Ujas-Goti/CS401_Group-4_Communications_System" style="text-decoration:none;">
-      <div style="min-width:260px; max-width:420px; padding:16px 18px; border-radius:18px; border:2px solid #22D3EE; background-color:#111827; box-shadow:0 0 18px #22D3EE40;">
-        <div style="font-weight:600; color:#E5E7EB; font-size:15px; margin-bottom:4px;">
-          CS401_Group-4_Communications_System
-        </div>
-        <div style="color:#9CA3AF; font-size:13px;">
-          Java TCP/IP client-server communication system with real-time + asynchronous messaging and scalable design.
-        </div>
-      </div>
-    </a>
-
-    <a href="https://github.com/Ujas-Goti/obbs-main" style="text-decoration:none;">
-      <div style="min-width:260px; max-width:420px; padding:16px 18px; border-radius:18px; border:2px solid #22D3EE; background-color:#111827; box-shadow:0 0 18px #22D3EE40;">
-        <div style="font-weight:600; color:#E5E7EB; font-size:15px; margin-bottom:4px;">
-          obbs-main
-        </div>
-        <div style="color:#9CA3AF; font-size:13px;">
-          Backend / systems project focusing on structured services, modular design, and robust business logic.
-        </div>
-      </div>
-    </a>
-
-  </div>
-</details>
-
-<!-- Web / Portfolio / Hackathons -->
-<details>
-  <summary>
-    <b style="color:#22D3EE;">🌐 Web Apps, Portfolio & Hackathon Work</b>
-  </summary>
-  <br/>
-
-  <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:16px;">
-
-    <a href="https://github.com/Ujas-Goti/ujasgotiportfolio" style="text-decoration:none;">
-      <div style="min-width:260px; max-width:420px; padding:16px 18px; border-radius:18px; border:2px solid #22D3EE; background-color:#111827; box-shadow:0 0 18px #22D3EE40;">
-        <div style="font-weight:600; color:#E5E7EB; font-size:15px; margin-bottom:4px;">
-          ujasgotiportfolio
-        </div>
-        <div style="color:#9CA3AF; font-size:13px;">
-          Personal developer portfolio showcasing projects, skills, and experience with a modern UI.
-        </div>
-      </div>
-    </a>
-
-    <a href="https://github.com/Ujas-Goti/DilemmaSimWeb" style="text-decoration:none;">
-      <div style="min-width:260px; max-width:420px; padding:16px 18px; border-radius:18px; border:2px solid #22D3EE; background-color:#111827; box-shadow:0 0 18px #22D3EE40;">
-        <div style="font-weight:600; color:#E5E7EB; font-size:15px; margin-bottom:4px;">
-          DilemmaSimWeb
-        </div>
-        <div style="color:#9CA3AF; font-size:13px;">
-          Web-based simulation/interactive project exploring dilemma or decision-making scenarios.
-        </div>
-      </div>
-    </a>
-
-    <a href="https://github.com/Ujas-Goti/HackHayward-Website" style="text-decoration:none;">
-      <div style="min-width:260px; max-width:420px; padding:16px 18px; border-radius:18px; border:2px solid #22D3EE; background-color:#111827; box-shadow:0 0 18px #22D3EE40;">
-        <div style="font-weight:600; color:#E5E7EB; font-size:15px; margin-bottom:4px;">
-          HackHayward-Website
-        </div>
-        <div style="color:#9CA3AF; font-size:13px;">
-          Official site for the HackHayward hackathon, supporting 200+ participants, sponsors, and event info.
-        </div>
-      </div>
-    </a>
-
-  </div>
-</details>
-
-<!-- Diploma / Early Projects -->
-<details>
-  <summary>
-    <b style="color:#22D3EE;">📚 Diploma Projects & Early Work</b>
-  </summary>
-  <br/>
-
-  <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:16px;">
-
-    <a href="https://github.com/Ujas-Goti/Diploma_PHP_MiniProject_COVID19_Vaccine_Registration_Site" style="text-decoration:none;">
-      <div style="min-width:260px; max-width:420px; padding:16px 18px; border-radius:18px; border:2px solid #22D3EE; background-color:#111827; box-shadow:0 0 18px #22D3EE40;">
-        <div style="font-weight:600; color:#E5E7EB; font-size:15px; margin-bottom:4px;">
-          COVID-19 Vaccine Registration Site
-        </div>
-        <div style="color:#9CA3AF; font-size:13px;">
-          PHP + SQL mini project for managing vaccine registrations and user records.
-        </div>
-      </div>
-    </a>
-
-    <a href="https://github.com/Ujas-Goti/Diploma_Android_Realtime_Attendance_Manager" style="text-decoration:none;">
-      <div style="min-width:260px; max-width:420px; padding:16px 18px; border-radius:18px; border:2px solid #22D3EE; background-color:#111827; box-shadow:0 0 18px #22D3EE40;">
-        <div style="font-weight:600; color:#E5E7EB; font-size:15px; margin-bottom:4px;">
-          Realtime Attendance Manager (Android)
-        </div>
-        <div style="color:#9CA3AF; font-size:13px;">
-          Android + Firebase app for real-time attendance tracking with live sync and multi-class support.
-        </div>
-      </div>
-    </a>
-
-    <a href="https://github.com/Ujas-Goti/Diploma-Mini-Project-PcBuild.com" style="text-decoration:none;">
-      <div style="min-width:260px; max-width:420px; padding:16px 18px; border-radius:18px; border:2px solid #22D3EE; background-color:#111827; box-shadow:0 0 18px #22D3EE40;">
-        <div style="font-weight:600; color:#E5E7EB; font-size:15px; margin-bottom:4px;">
-          PcBuild.com
-        </div>
-        <div style="color:#9CA3AF; font-size:13px;">
-          Mini project simulating a custom PC build/e-commerce experience.
-        </div>
-      </div>
-    </a>
-
-    <a href="https://github.com/Ujas-Goti/Diploma-Final-Year-Project" style="text-decoration:none;">
-      <div style="min-width:260px; max-width:420px; padding:16px 18px; border-radius:18px; border:2px solid #22D3EE; background-color:#111827; box-shadow:0 0 18px #22D3EE40;">
-        <div style="font-weight:600; color:#E5E7EB; font-size:15px; margin-bottom:4px;">
-          Diploma Final Year Project
-        </div>
-        <div style="color:#9CA3AF; font-size:13px;">
-          Final year analytics/dashboard project (e.g., dropout analysis, reporting, and visualization tools).
-        </div>
-      </div>
-    </a>
-
-  </div>
-</details>
-
----
-
-## 📊 Neon GitHub Stats (All Commits)
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ujas-Goti&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&border_color=22D3EE" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujas-Goti&layout=compact&theme=tokyonight&border_color=22D3EE" height="165" />
+  <i>Some of the things I've been building.</i>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ujas-Goti&theme=tokyonight&border=22D3EE" />
+
+  <!-- Row 1 -->
+  <a href="https://github.com/Ujas-Goti/AI-agent-tool">
+    <img src="https://img.shields.io/badge/AI--agent--tool-111827?style=for-the-badge&logo=github&logoColor=22D3EE" />
+  </a>
+  <a href="https://github.com/Ujas-Goti/GoogleADK">
+    <img src="https://img.shields.io/badge/GoogleADK-111827?style=for-the-badge&logo=github&logoColor=22D3EE" />
+  </a>
+  <a href="https://github.com/Ujas-Goti/restack_weaviate_curriculum">
+    <img src="https://img.shields.io/badge/restack__weaviate-111827?style=for-the-badge&logo=github&logoColor=22D3EE" />
+  </a>
+  <a href="https://github.com/Ujas-Goti/HackHayward-Website">
+    <img src="https://img.shields.io/badge/HackHayward--Website-111827?style=for-the-badge&logo=github&logoColor=22D3EE" />
+  </a>
+
+</p>
+
+<p align="center">
+
+  <!-- Row 2 -->
+  <a href="https://github.com/Ujas-Goti/CS401_Group-4_Communications_System">
+    <img src="https://img.shields.io/badge/CS401%20Comm%20System-111827?style=for-the-badge&logo=github&logoColor=22D3EE" />
+  </a>
+  <a href="https://github.com/Ujas-Goti/obbs-main">
+    <img src="https://img.shields.io/badge/obbs--main-111827?style=for-the-badge&logo=github&logoColor=22D3EE" />
+  </a>
+  <a href="https://github.com/Ujas-Goti/ujasgotiportfolio">
+    <img src="https://img.shields.io/badge/ujasgotiportfolio-111827?style=for-the-badge&logo=github&logoColor=22D3EE" />
+  </a>
+  <a href="https://github.com/Ujas-Goti/DilemmaSimWeb">
+    <img src="https://img.shields.io/badge/DilemmaSimWeb-111827?style=for-the-badge&logo=github&logoColor=22D3EE" />
+  </a>
+
+</p>
+
+<p align="center">
+
+  <!-- Row 3 -->
+  <a href="https://github.com/Ujas-Goti/Diploma_PHP_MiniProject_COVID19_Vaccine_Registration_Site">
+    <img src="https://img.shields.io/badge/COVID%20Vaccine%20Site-111827?style=for-the-badge&logo=github&logoColor=22D3EE" />
+  </a>
+  <a href="https://github.com/Ujas-Goti/Diploma_Android_Realtime_Attendance_Manager">
+    <img src="https://img.shields.io/badge/Attendance%20Manager-111827?style=for-the-badge&logo=github&logoColor=22D3EE" />
+  </a>
+  <a href="https://github.com/Ujas-Goti/Diploma-Mini-Project-PcBuild.com">
+    <img src="https://img.shields.io/badge/PcBuild.com-111827?style=for-the-badge&logo=github&logoColor=22D3EE" />
+  </a>
+  <a href="https://github.com/Ujas-Goti/Diploma-Final-Year-Project">
+    <img src="https://img.shields.io/badge/Final%20Year%20Project-111827?style=for-the-badge&logo=github&logoColor=22D3EE" />
+  </a>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ujas-Goti&show_icons=true&include_all_commits=true&theme=tokyonight" height="165" />
+  <img src="https://ghchart.rshah.org/22D3EE/Ujas-Goti" alt="Contribution Graph" />
 </p>
 
 ---
@@ -282,15 +150,15 @@ I love building things that **actually solve problems**, leading developer commu
 
 **President / Lead — Google Developer Groups on Campus, CSU East Bay**  
 - Led operations across Technical, Finance, Operations, and Marketing teams.  
-- Organized hands-on workshops, speaker events, and hackathons.  
+- Organized hands-on workshops, speaker events, and hackathons.
 
 **Software Engineering Fellow — Headstarter AI**  
 - Worked on AI-powered projects and generative AI workflows.  
-- Built tools leveraging LLM reasoning and automation.  
+- Built tools leveraging LLM reasoning and automation.
 
 **Software Engineering Intern — KIT Solutions**  
 - Contributed to SaaS ERP products like Ideas Hub and Short GOURL.  
-- Developed backend APIs using **Java** and **Python**.  
+- Developed backend APIs using **Java** and **Python**.
 
 ---
 
