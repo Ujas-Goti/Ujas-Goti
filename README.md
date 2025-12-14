@@ -1,119 +1,124 @@
-<h1 align="center">👋 Hello, I'm <strong>Ujas Goti</strong></h1>
-<h3 align="center">Software Engineering Student | Backend Developer | AI Agent Builder | Tech Organizer</h3>
+<!-- Typing Animation Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Ujas+Goti!;Software+Engineer+%7C+AI+Agent+Developer;Backend+Developer+%7C+Cloud+Engineer;Welcome+to+my+GitHub+Profile!+🚀" alt="Typing Animation" />
+</h1>
 
+<!-- Neon Divider -->
 <p align="center">
-  <a href="mailto:ugoti@horizon.csueastbay.edu">Email</a> •
-  <a href="https://linkedin.com/in/ujas-goti">LinkedIn</a> •
-  <a href="https://github.com/Ujas-Goti">GitHub</a> •
-  <a href="#">Portfolio</a>
+  <img src="https://img.shields.io/badge/-Neon%20Mode-00F0FF?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
 
-## 💫 About Me
-A curious tech enthusiast passionate about **backend development**, **AI agents**, **cloud computing**, and **scalable systems**.  
-I enjoy building things that solve real-world problems and leading technical communities.
+## 🚀 About Me
+I'm a passionate **Software Engineering Student**, **Backend Developer**, and **AI Agent Builder** who loves building scalable systems, automation tools, and real-world impactful applications.
 
-- 🔭 Working on scalable backend systems & AI tools  
-- 🤖 Passionate about LLM Agent Development (LangChain, LangGraph, Gemini, Vertex AI)  
-- ☁️ Experienced with AWS, Google Cloud, Docker, Kubernetes  
-- 🧩 Organizer of HackHayward and Google Developer Groups on Campus  
-- 🎯 Seeking SWE Internships and AI/Backend roles  
+💡 I specialize in **Java, Python, AI Agents, REST APIs, Cloud Computing, Containers**, and **high-performance backend systems**.
+
+⚡ Currently:
+- Building scalable backend apps  
+- Working with **LangChain**, **Vertex AI**, **Gemini**, **LangGraph**  
+- Leading **HackHayward** & **Google Developer Groups on Campus**  
+- Exploring cloud-native engineering (AWS, GCP, Kubernetes, Docker)
 
 ---
 
-## 🛠️ Technical Skills
+## ✨ Tech Stack
 
 ### **Languages**
-Python • Java • C++ • C# • C • JavaScript • Ruby • SQL  
+`Python` · `Java` · `C++` · `C#` · `JavaScript` · `Ruby` · `SQL`
 
 ### **Backend & APIs**
-Node.js • Flask • ASP.NET • GraphQL • Microservices • REST APIs  
+`Flask` · `Node.js` · `ASP.NET` · `GraphQL` · `Microservices` · `REST APIs`
 
 ### **AI & ML**
-LLMs • LangChain • LangGraph • Gemini • Vertex AI • AI Agent Development  
-
-### **Frontend & Mobile**
-React.js • Flutter • Android Studio • Xamarin  
+`LLMs` · `LangChain` · `LangGraph` · `Gemini` · `Vertex AI` · `AI Agents`
 
 ### **Cloud & DevOps**
-AWS • Google Cloud • Docker • Kubernetes • Jenkins • CI/CD  
+`AWS` · `Google Cloud` · `Docker` · `Kubernetes` · `Jenkins` · `CI/CD`
 
 ### **Databases**
-MySQL • PostgreSQL • MongoDB • Firebase • SQL Server  
+`PostgreSQL` · `MongoDB` · `MySQL` · `Firebase` · `SQL Server`
 
 ---
 
-## 📂 All My GitHub Repositories
-> This section links to **all your repositories**, no matter how many you have.
+# 🌌 Fancy Neon Project Showcase (All Repos)
+Below is a **neon-themed grid** of your repositories using GitHub cards.  
+Add/remove repos anytime — just duplicate the pattern.
 
-🔗 **Browse All Repos:**  
-https://github.com/Ujas-Goti?tab=repositories
+<p align="center">
+  <!-- Row 1 -->
+  <a href="https://github.com/Ujas-Goti/ujasgotiprofolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ujas-Goti&repo=ujasgotiprofolio&theme=tokyonight&border_color=00F0FF" />
+  </a>
+  <a href="https://github.com/Ujas-Goti/AI-agent-tool">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ujas-Goti&repo=AI-agent-tool&theme=tokyonight&border_color=00F0FF" />
+  </a>
+  <br/><br/>
+
+  <!-- Row 2 -->
+  <a href="https://github.com/Ujas-Goti/CS401_Group-4_Communications_System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ujas-Goti&repo=CS401_Group-4_Communications_System&theme=tokyonight&border_color=00F0FF" />
+  </a>
+  <a href="https://github.com/Ujas-Goti/leetcode">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ujas-Goti&repo=leetcode&theme=tokyonight&border_color=00F0FF" />
+  </a>
+  <br/><br/>
+
+  <!-- Row 3 -->
+  <a href="https://github.com/Ujas-Goti/HackHayward-Website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ujas-Goti&repo=HackHayward-Website&theme=tokyonight&border_color=00F0FF" />
+  </a>
+  <a href="https://github.com/Ujas-Goti/Random-Java-Projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ujas-Goti&repo=Random-Java-Projects&theme=tokyonight&border_color=00F0FF" />
+  </a>
+  <br/><br/>
+
+  <!-- Row 4 -->
+  <a href="https://github.com/Ujas-Goti/AI-LangChain-Playground">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ujas-Goti&repo=AI-LangChain-Playground&theme=tokyonight&border_color=00F0FF" />
+  </a>
+  <a href="https://github.com/Ujas-Goti/Data-Structures-and-Algorithms">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ujas-Goti&repo=Data-Structures-and-Algorithms&theme=tokyonight&border_color=00F0FF" />
+  </a>
+</p>
 
 ---
 
-## 📊 GitHub Stats (ALL COMMITS ENABLED)
+# 📊 GitHub Stats (Neon Edition)
 
-### ✔️ Total Commits + Repo Stats  
-![Ujas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ujas-Goti&show_icons=true&include_all_commits=true&theme=tokyonight)
+### 🔥 Full Commit History + Private Repos  
+![Commits](https://github-readme-stats.vercel.app/api?username=Ujas-Goti&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&border_color=00F0FF)
 
-### ✔️ Most Used Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ujas-Goti&layout=compact&theme=tokyonight)
+### 🌈 Most Used Languages  
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ujas-Goti&layout=compact&theme=tokyonight&border_color=00F0FF)
 
-### ✔️ Contribution Streak  
-![Streak Stats](https://streak-stats.demolab.com?user=Ujas-Goti&theme=tokyonight)
-
----
-
-## 🧠 Experience
-
-### **Co-Founder & President — HackHayward**
-- Managed hackathons with 200+ participants  
-- Secured **$18,000** funding & partnerships (Google, AWS, Groq, PerplexityAI, CSUEB)  
-- Led Technical, Marketing, Logistics & Outreach teams  
-
-### **President — Google Developer Groups on Campus**
-- Hosted engineering workshops & industry speaker events  
-- Organized hackathons & collaborative tech events  
-
-### **Software Engineering Fellow — Headstarter AI**
-- Built AI-powered automation tools  
-- Designed LLM-based agent reasoning workflows  
-- Collaborated with industry mentors  
-
-### **Software Engineering Intern — KIT Solutions**
-- Built ERP backend APIs using Java & Python  
-- Worked on SaaS product architecture  
+### ⚡ Contribution Streak  
+![Streak](https://streak-stats.demolab.com?user=Ujas-Goti&theme=tokyonight&border=00F0FF)
 
 ---
 
-## 🎓 Education
-
-**California State University, East Bay**  
-Bachelor of Science in Computer Science  
-📍 *2023 – 2026*  
-GPA: **3.74 / 4.0**
-
-**Gujarat Technological University**  
-Diploma in Information Technology  
+# 🎓 Education
+**California State University, East Bay** — *B.S. Computer Science*  
+GPA: **3.74 / 4.0**  
+**Gujarat Technological University** — *Diploma in IT*  
 GPA: **9.8 / 10**
 
 ---
 
-## 🤝 Connect With Me  
-
-<p align="left">
+# 🤝 Connect With Me  
+<p>
   <a href="https://linkedin.com/in/ujas-goti">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-LinkedIn-00F0FF?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
   <a href="mailto:ugoti@horizon.csueastbay.edu">
-    <img src="https://img.shields.io/badge/-Email-red?logo=gmail&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Email-00F0FF?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
   <a href="https://github.com/Ujas-Goti">
-    <img src="https://img.shields.io/badge/-GitHub-black?logo=github&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-GitHub-00F0FF?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </p>
 
 ---
 
-⭐ **Thanks for visiting my profile! Always building, learning, and collaborating 🚀**
+<h3 align="center">⭐ Thanks for visiting — stay awesome and keep building! ⭐</h3>
