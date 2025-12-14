@@ -73,154 +73,188 @@ I love building things that **actually solve problems**, leading developer commu
 
 ## 🛰 Neon Projects Hub
 
-> Click a section to expand. Each repo card uses grey background + neon curved border and grey link text.
+> Click a section to expand. Each repo card uses grey background + neon curved border and non-blue link text.
 
 ### Cloud | Systems | Hackathons
 
+<!-- AI & Agentic Systems -->
 <details open>
   <summary>
     <b style="color:#22D3EE;">🤖 AI & Agentic Systems</b>
   </summary>
   <br/>
 
-<div align="center">
+  <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:16px;">
 
-<table>
-<tr>
-<td width="50%" style="padding:15px; background-color:#1F2937; border:2px solid #22D3EE; border-radius:12px; margin:10px;">
-  
-**[AI-agent-tool](https://github.com/Ujas-Goti/AI-agent-tool)**  
-<span style="color:#9CA3AF; font-size:13px;">AI agent that assists with code explanation, documentation generation, and troubleshooting using LLMs (LangChain + Gemini).</span>
+    <a href="https://github.com/Ujas-Goti/AI-agent-tool" style="text-decoration:none;">
+      <div style="min-width:260px; max-width:420px; padding:16px 18px; border-radius:18px; border:2px solid #22D3EE; background-color:#111827; box-shadow:0 0 18px #22D3EE40;">
+        <div style="font-weight:600; color:#E5E7EB; font-size:15px; margin-bottom:4px;">
+          AI-agent-tool
+        </div>
+        <div style="color:#9CA3AF; font-size:13px;">
+          AI agent that assists with code explanation, documentation generation, and troubleshooting using LLMs (LangChain + Gemini).
+        </div>
+      </div>
+    </a>
 
-</td>
-<td width="50%" style="padding:15px; background-color:#1F2937; border:2px solid #22D3EE; border-radius:12px; margin:10px;">
-  
-**[GoogleADK](https://github.com/Ujas-Goti/GoogleADK)**  
-<span style="color:#9CA3AF; font-size:13px;">Experiments with Google Agent Development Kit, LLM tooling, and cloud-native agent workflows.</span>
+    <a href="https://github.com/Ujas-Goti/GoogleADK" style="text-decoration:none;">
+      <div style="min-width:260px; max-width:420px; padding:16px 18px; border-radius:18px; border:2px solid #22D3EE; background-color:#111827; box-shadow:0 0 18px #22D3EE40;">
+        <div style="font-weight:600; color:#E5E7EB; font-size:15px; margin-bottom:4px;">
+          GoogleADK
+        </div>
+        <div style="color:#9CA3AF; font-size:13px;">
+          Experiments with Google Agent Development Kit, LLM tooling, and cloud-native agent workflows.
+        </div>
+      </div>
+    </a>
 
-</td>
-</tr>
-<tr>
-<td width="50%" style="padding:15px; background-color:#1F2937; border:2px solid #22D3EE; border-radius:12px; margin:10px;">
-  
-**[restack_weaviate_curriculum](https://github.com/Ujas-Goti/restack_weaviate_curriculum)**  
-<span style="color:#9CA3AF; font-size:13px;">Vector DB + AI experiments with Weaviate, retrieval pipelines, and curriculum-style learning.</span>
+    <a href="https://github.com/Ujas-Goti/restack_weaviate_curriculum" style="text-decoration:none;">
+      <div style="min-width:260px; max-width:420px; padding:16px 18px; border-radius:18px; border:2px solid #22D3EE; background-color:#111827; box-shadow:0 0 18px #22D3EE40;">
+        <div style="font-weight:600; color:#E5E7EB; font-size:15px; margin-bottom:4px;">
+          restack_weaviate_curriculum
+        </div>
+        <div style="color:#9CA3AF; font-size:13px;">
+          Vector DB + AI experiments with Weaviate, retrieval pipelines, and curriculum-style learning.
+        </div>
+      </div>
+    </a>
 
-</td>
-</tr>
-</table>
-
-</div>
-
+  </div>
 </details>
 
+<!-- Systems & Backends -->
 <details>
   <summary>
     <b style="color:#22D3EE;">🛰 Systems & Scalable Backends</b>
   </summary>
   <br/>
 
-<div align="center">
+  <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:16px;">
 
-<table>
-<tr>
-<td width="50%" style="padding:15px; background-color:#1F2937; border:2px solid #22D3EE; border-radius:12px; margin:10px;">
-  
-**[CS401_Group-4_Communications_System](https://github.com/Ujas-Goti/CS401_Group-4_Communications_System)**  
-<span style="color:#9CA3AF; font-size:13px;">Java TCP/IP client-server communication system with real-time + asynchronous messaging and scalable design.</span>
+    <a href="https://github.com/Ujas-Goti/CS401_Group-4_Communications_System" style="text-decoration:none;">
+      <div style="min-width:260px; max-width:420px; padding:16px 18px; border-radius:18px; border:2px solid #22D3EE; background-color:#111827; box-shadow:0 0 18px #22D3EE40;">
+        <div style="font-weight:600; color:#E5E7EB; font-size:15px; margin-bottom:4px;">
+          CS401_Group-4_Communications_System
+        </div>
+        <div style="color:#9CA3AF; font-size:13px;">
+          Java TCP/IP client-server communication system with real-time + asynchronous messaging and scalable design.
+        </div>
+      </div>
+    </a>
 
-</td>
-<td width="50%" style="padding:15px; background-color:#1F2937; border:2px solid #22D3EE; border-radius:12px; margin:10px;">
-  
-**[obbs-main](https://github.com/Ujas-Goti/obbs-main)**  
-<span style="color:#9CA3AF; font-size:13px;">Backend / systems project focusing on structured services, modular design, and robust business logic.</span>
+    <a href="https://github.com/Ujas-Goti/obbs-main" style="text-decoration:none;">
+      <div style="min-width:260px; max-width:420px; padding:16px 18px; border-radius:18px; border:2px solid #22D3EE; background-color:#111827; box-shadow:0 0 18px #22D3EE40;">
+        <div style="font-weight:600; color:#E5E7EB; font-size:15px; margin-bottom:4px;">
+          obbs-main
+        </div>
+        <div style="color:#9CA3AF; font-size:13px;">
+          Backend / systems project focusing on structured services, modular design, and robust business logic.
+        </div>
+      </div>
+    </a>
 
-</td>
-</tr>
-</table>
-
-</div>
-
+  </div>
 </details>
 
+<!-- Web / Portfolio / Hackathons -->
 <details>
   <summary>
     <b style="color:#22D3EE;">🌐 Web Apps, Portfolio & Hackathon Work</b>
   </summary>
   <br/>
 
-<div align="center">
+  <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:16px;">
 
-<table>
-<tr>
-<td width="50%" style="padding:15px; background-color:#1F2937; border:2px solid #22D3EE; border-radius:12px; margin:10px;">
-  
-**[ujasgotiportfolio](https://github.com/Ujas-Goti/ujasgotiportfolio)**  
-<span style="color:#9CA3AF; font-size:13px;">Personal developer portfolio showcasing projects, skills, and experience with a modern UI.</span>
+    <a href="https://github.com/Ujas-Goti/ujasgotiportfolio" style="text-decoration:none;">
+      <div style="min-width:260px; max-width:420px; padding:16px 18px; border-radius:18px; border:2px solid #22D3EE; background-color:#111827; box-shadow:0 0 18px #22D3EE40;">
+        <div style="font-weight:600; color:#E5E7EB; font-size:15px; margin-bottom:4px;">
+          ujasgotiportfolio
+        </div>
+        <div style="color:#9CA3AF; font-size:13px;">
+          Personal developer portfolio showcasing projects, skills, and experience with a modern UI.
+        </div>
+      </div>
+    </a>
 
-</td>
-<td width="50%" style="padding:15px; background-color:#1F2937; border:2px solid #22D3EE; border-radius:12px; margin:10px;">
-  
-**[DilemmaSimWeb](https://github.com/Ujas-Goti/DilemmaSimWeb)**  
-<span style="color:#9CA3AF; font-size:13px;">Web-based simulation/interactive project exploring dilemma or decision-making scenarios.</span>
+    <a href="https://github.com/Ujas-Goti/DilemmaSimWeb" style="text-decoration:none;">
+      <div style="min-width:260px; max-width:420px; padding:16px 18px; border-radius:18px; border:2px solid #22D3EE; background-color:#111827; box-shadow:0 0 18px #22D3EE40;">
+        <div style="font-weight:600; color:#E5E7EB; font-size:15px; margin-bottom:4px;">
+          DilemmaSimWeb
+        </div>
+        <div style="color:#9CA3AF; font-size:13px;">
+          Web-based simulation/interactive project exploring dilemma or decision-making scenarios.
+        </div>
+      </div>
+    </a>
 
-</td>
-</tr>
-<tr>
-<td width="50%" style="padding:15px; background-color:#1F2937; border:2px solid #22D3EE; border-radius:12px; margin:10px;">
-  
-**[HackHayward-Website](https://github.com/Ujas-Goti/HackHayward-Website)**  
-<span style="color:#9CA3AF; font-size:13px;">Official site for the HackHayward hackathon, supporting 200+ participants, sponsors, and event info.</span>
+    <a href="https://github.com/Ujas-Goti/HackHayward-Website" style="text-decoration:none;">
+      <div style="min-width:260px; max-width:420px; padding:16px 18px; border-radius:18px; border:2px solid #22D3EE; background-color:#111827; box-shadow:0 0 18px #22D3EE40;">
+        <div style="font-weight:600; color:#E5E7EB; font-size:15px; margin-bottom:4px;">
+          HackHayward-Website
+        </div>
+        <div style="color:#9CA3AF; font-size:13px;">
+          Official site for the HackHayward hackathon, supporting 200+ participants, sponsors, and event info.
+        </div>
+      </div>
+    </a>
 
-</td>
-</tr>
-</table>
-
-</div>
-
+  </div>
 </details>
 
+<!-- Diploma / Early Projects -->
 <details>
   <summary>
     <b style="color:#22D3EE;">📚 Diploma Projects & Early Work</b>
   </summary>
   <br/>
 
-<div align="center">
+  <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:16px;">
 
-<table>
-<tr>
-<td width="50%" style="padding:15px; background-color:#1F2937; border:2px solid #22D3EE; border-radius:12px; margin:10px;">
-  
-**[COVID-19 Vaccine Registration Site](https://github.com/Ujas-Goti/Diploma_PHP_MiniProject_COVID19_Vaccine_Registration_Site)**  
-<span style="color:#9CA3AF; font-size:13px;">PHP + SQL mini project for managing vaccine registrations and user records.</span>
+    <a href="https://github.com/Ujas-Goti/Diploma_PHP_MiniProject_COVID19_Vaccine_Registration_Site" style="text-decoration:none;">
+      <div style="min-width:260px; max-width:420px; padding:16px 18px; border-radius:18px; border:2px solid #22D3EE; background-color:#111827; box-shadow:0 0 18px #22D3EE40;">
+        <div style="font-weight:600; color:#E5E7EB; font-size:15px; margin-bottom:4px;">
+          COVID-19 Vaccine Registration Site
+        </div>
+        <div style="color:#9CA3AF; font-size:13px;">
+          PHP + SQL mini project for managing vaccine registrations and user records.
+        </div>
+      </div>
+    </a>
 
-</td>
-<td width="50%" style="padding:15px; background-color:#1F2937; border:2px solid #22D3EE; border-radius:12px; margin:10px;">
-  
-**[Realtime Attendance Manager (Android)](https://github.com/Ujas-Goti/Diploma_Android_Realtime_Attendance_Manager)**  
-<span style="color:#9CA3AF; font-size:13px;">Android + Firebase app for real-time attendance tracking with live sync and multi-class support.</span>
+    <a href="https://github.com/Ujas-Goti/Diploma_Android_Realtime_Attendance_Manager" style="text-decoration:none;">
+      <div style="min-width:260px; max-width:420px; padding:16px 18px; border-radius:18px; border:2px solid #22D3EE; background-color:#111827; box-shadow:0 0 18px #22D3EE40;">
+        <div style="font-weight:600; color:#E5E7EB; font-size:15px; margin-bottom:4px;">
+          Realtime Attendance Manager (Android)
+        </div>
+        <div style="color:#9CA3AF; font-size:13px;">
+          Android + Firebase app for real-time attendance tracking with live sync and multi-class support.
+        </div>
+      </div>
+    </a>
 
-</td>
-</tr>
-<tr>
-<td width="50%" style="padding:15px; background-color:#1F2937; border:2px solid #22D3EE; border-radius:12px; margin:10px;">
-  
-**[PcBuild.com](https://github.com/Ujas-Goti/Diploma-Mini-Project-PcBuild.com)**  
-<span style="color:#9CA3AF; font-size:13px;">Mini project simulating a custom PC build/e-commerce experience.</span>
+    <a href="https://github.com/Ujas-Goti/Diploma-Mini-Project-PcBuild.com" style="text-decoration:none;">
+      <div style="min-width:260px; max-width:420px; padding:16px 18px; border-radius:18px; border:2px solid #22D3EE; background-color:#111827; box-shadow:0 0 18px #22D3EE40;">
+        <div style="font-weight:600; color:#E5E7EB; font-size:15px; margin-bottom:4px;">
+          PcBuild.com
+        </div>
+        <div style="color:#9CA3AF; font-size:13px;">
+          Mini project simulating a custom PC build/e-commerce experience.
+        </div>
+      </div>
+    </a>
 
-</td>
-<td width="50%" style="padding:15px; background-color:#1F2937; border:2px solid #22D3EE; border-radius:12px; margin:10px;">
-  
-**[Diploma Final Year Project](https://github.com/Ujas-Goti/Diploma-Final-Year-Project)**  
-<span style="color:#9CA3AF; font-size:13px;">Final year analytics/dashboard project (e.g., dropout analysis, reporting, and visualization tools).</span>
+    <a href="https://github.com/Ujas-Goti/Diploma-Final-Year-Project" style="text-decoration:none;">
+      <div style="min-width:260px; max-width:420px; padding:16px 18px; border-radius:18px; border:2px solid #22D3EE; background-color:#111827; box-shadow:0 0 18px #22D3EE40;">
+        <div style="font-weight:600; color:#E5E7EB; font-size:15px; margin-bottom:4px;">
+          Diploma Final Year Project
+        </div>
+        <div style="color:#9CA3AF; font-size:13px;">
+          Final year analytics/dashboard project (e.g., dropout analysis, reporting, and visualization tools).
+        </div>
+      </div>
+    </a>
 
-</td>
-</tr>
-</table>
-
-</div>
-
+  </div>
 </details>
 
 ---
