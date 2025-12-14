@@ -7,10 +7,7 @@
   <img src="https://img.shields.io/badge/That%20Curious%20Tech%20Enthusiast-22D3EE?style=for-the-badge&labelColor=020617" />
 </p>
 
-<!-- Gradient Divider -->
-<div align="center">
-  <img src="data:image/svg+xml,%3Csvg width='100%25' height='2' xmlns='http://www.w3.org/2000/svg'%3E%3Cdefs%3E%3ClinearGradient id='grad' x1='0%25' y1='0%25' x2='100%25' y2='0%25'%3E%3Cstop offset='0%25' style='stop-color:%23020617;stop-opacity:1' /%3E%3Cstop offset='50%25' style='stop-color:%2322D3EE;stop-opacity:1' /%3E%3Cstop offset='100%25' style='stop-color:%23020617;stop-opacity:1' /%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='100%25' height='2' fill='url(%23grad)' /%3E%3C/svg%3E" alt="Gradient Divider" style="width: 100%; height: 2px;" />
-</div>
+---
 
 ## 🌌 About Me
 
@@ -23,10 +20,7 @@ Aspiring **Software Engineer** with experience in:
 
 I love building things that **actually solve problems**, leading developer communities, and experimenting with **LLM-powered systems**.
 
-<!-- Gradient Divider -->
-<div align="center">
-  <img src="data:image/svg+xml,%3Csvg width='100%25' height='2' xmlns='http://www.w3.org/2000/svg'%3E%3Cdefs%3E%3ClinearGradient id='grad' x1='0%25' y1='0%25' x2='100%25' y2='0%25'%3E%3Cstop offset='0%25' style='stop-color:%23020617;stop-opacity:1' /%3E%3Cstop offset='50%25' style='stop-color:%2322D3EE;stop-opacity:1' /%3E%3Cstop offset='100%25' style='stop-color:%23020617;stop-opacity:1' /%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='100%25' height='2' fill='url(%23grad)' /%3E%3C/svg%3E" alt="Gradient Divider" style="width: 100%; height: 2px;" />
-</div>
+---
 
 ## ✨ Tech Stack (Neon Mode)
 
@@ -75,10 +69,7 @@ I love building things that **actually solve problems**, leading developer commu
 
 </div>
 
-<!-- Gradient Divider -->
-<div align="center">
-  <img src="data:image/svg+xml,%3Csvg width='100%25' height='2' xmlns='http://www.w3.org/2000/svg'%3E%3Cdefs%3E%3ClinearGradient id='grad' x1='0%25' y1='0%25' x2='100%25' y2='0%25'%3E%3Cstop offset='0%25' style='stop-color:%23020617;stop-opacity:1' /%3E%3Cstop offset='50%25' style='stop-color:%2322D3EE;stop-opacity:1' /%3E%3Cstop offset='100%25' style='stop-color:%23020617;stop-opacity:1' /%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='100%25' height='2' fill='url(%23grad)' /%3E%3C/svg%3E" alt="Gradient Divider" style="width: 100%; height: 2px;" />
-</div>
+---
 
 ## 🛰 Neon Projects Hub
 
@@ -88,160 +79,151 @@ I love building things that **actually solve problems**, leading developer commu
 
 <details open>
   <summary>
-    <span style="font-weight:600; color:#22D3EE; cursor:pointer;">🤖 AI & Agentic Systems</span>
+    <b style="color:#22D3EE;">🤖 AI & Agentic Systems</b>
   </summary>
   <br/>
 
-  <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:15px;">
-
-  <div style="display:inline-block; margin:10px; padding:15px 20px; border-radius:18px; border:2px solid #22D3EE; background:#1F2937; box-shadow:0 0 20px rgba(34,211,238,0.3), 0 0 40px rgba(34,211,238,0.1); max-width:480px; min-width:300px; text-align:left; word-wrap:break-word; overflow-wrap:break-word;">
-    <a href="https://github.com/Ujas-Goti/AI-agent-tool" style="color:#9CA3AF; font-size:16px; font-weight:600; text-decoration:none; word-break:break-word;">
-      AI-agent-tool
-    </a>
-    <p style="margin:6px 0 0 0; color:#D1D5DB; font-size:13px; word-wrap:break-word; overflow-wrap:break-word;">
-      AI agent that assists with code explanation, documentation generation, and troubleshooting using LLMs (LangChain + Gemini).
-    </p>
-  </div>
-
-  <div style="display:inline-block; margin:10px; padding:15px 20px; border-radius:18px; border:2px solid #22D3EE; background:#1F2937; box-shadow:0 0 20px rgba(34,211,238,0.3), 0 0 40px rgba(34,211,238,0.1); max-width:480px; min-width:300px; text-align:left; word-wrap:break-word; overflow-wrap:break-word;">
-    <a href="https://github.com/Ujas-Goti/GoogleADK" style="color:#9CA3AF; font-size:16px; font-weight:600; text-decoration:none; word-break:break-word;">
-      GoogleADK
-    </a>
-    <p style="margin:6px 0 0 0; color:#D1D5DB; font-size:13px; word-wrap:break-word; overflow-wrap:break-word;">
-      Experiments with Google Agent Development Kit, LLM tooling, and cloud-native agent workflows.
-    </p>
-  </div>
-
-  <div style="display:inline-block; margin:10px; padding:15px 20px; border-radius:18px; border:2px solid #22D3EE; background:#1F2937; box-shadow:0 0 20px rgba(34,211,238,0.3), 0 0 40px rgba(34,211,238,0.1); max-width:480px; min-width:300px; text-align:left; word-wrap:break-word; overflow-wrap:break-word;">
-    <a href="https://github.com/Ujas-Goti/restack_weaviate_curriculum" style="color:#9CA3AF; font-size:16px; font-weight:600; text-decoration:none; word-break:break-word;">
-      restack_weaviate_curriculum
-    </a>
-    <p style="margin:6px 0 0 0; color:#D1D5DB; font-size:13px; word-wrap:break-word; overflow-wrap:break-word;">
-      Vector DB + AI experiments with Weaviate, retrieval pipelines, and curriculum-style learning.
-    </p>
-  </div>
-
-  </div>
-</details>
-
-<details>
-  <summary>
-    <span style="font-weight:600; color:#22D3EE; cursor:pointer;">🛰 Systems & Scalable Backends</span>
-  </summary>
-  <br/>
-
-  <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:15px;">
-
-  <div style="display:inline-block; margin:10px; padding:15px 20px; border-radius:18px; border:2px solid #22D3EE; background:#1F2937; box-shadow:0 0 20px rgba(34,211,238,0.3), 0 0 40px rgba(34,211,238,0.1); max-width:480px; min-width:300px; text-align:left; word-wrap:break-word; overflow-wrap:break-word;">
-    <a href="https://github.com/Ujas-Goti/CS401_Group-4_Communications_System" style="color:#9CA3AF; font-size:16px; font-weight:600; text-decoration:none; word-break:break-word;">
-      CS401_Group-4_Communications_System
-    </a>
-    <p style="margin:6px 0 0 0; color:#D1D5DB; font-size:13px; word-wrap:break-word; overflow-wrap:break-word;">
-      Java TCP/IP client-server communication system with real-time + asynchronous messaging and scalable design.
-    </p>
-  </div>
-
-  <div style="display:inline-block; margin:10px; padding:15px 20px; border-radius:18px; border:2px solid #22D3EE; background:#1F2937; box-shadow:0 0 20px rgba(34,211,238,0.3), 0 0 40px rgba(34,211,238,0.1); max-width:480px; min-width:300px; text-align:left; word-wrap:break-word; overflow-wrap:break-word;">
-    <a href="https://github.com/Ujas-Goti/obbs-main" style="color:#9CA3AF; font-size:16px; font-weight:600; text-decoration:none; word-break:break-word;">
-      obbs-main
-    </a>
-    <p style="margin:6px 0 0 0; color:#D1D5DB; font-size:13px; word-wrap:break-word; overflow-wrap:break-word;">
-      Backend / systems project focusing on structured services, modular design, and robust business logic.
-    </p>
-  </div>
-
-  </div>
-</details>
-
-<details>
-  <summary>
-    <span style="font-weight:600; color:#22D3EE; cursor:pointer;">🌐 Web Apps, Portfolio & Hackathon Work</span>
-  </summary>
-  <br/>
-
-  <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:15px;">
-
-  <div style="display:inline-block; margin:10px; padding:15px 20px; border-radius:18px; border:2px solid #22D3EE; background:#1F2937; box-shadow:0 0 20px rgba(34,211,238,0.3), 0 0 40px rgba(34,211,238,0.1); max-width:480px; min-width:300px; text-align:left; word-wrap:break-word; overflow-wrap:break-word;">
-    <a href="https://github.com/Ujas-Goti/ujasgotiportfolio" style="color:#9CA3AF; font-size:16px; font-weight:600; text-decoration:none; word-break:break-word;">
-      ujasgotiportfolio
-    </a>
-    <p style="margin:6px 0 0 0; color:#D1D5DB; font-size:13px; word-wrap:break-word; overflow-wrap:break-word;">
-      Personal developer portfolio showcasing projects, skills, and experience with a modern UI.
-    </p>
-  </div>
-
-  <div style="display:inline-block; margin:10px; padding:15px 20px; border-radius:18px; border:2px solid #22D3EE; background:#1F2937; box-shadow:0 0 20px rgba(34,211,238,0.3), 0 0 40px rgba(34,211,238,0.1); max-width:480px; min-width:300px; text-align:left; word-wrap:break-word; overflow-wrap:break-word;">
-    <a href="https://github.com/Ujas-Goti/DilemmaSimWeb" style="color:#9CA3AF; font-size:16px; font-weight:600; text-decoration:none; word-break:break-word;">
-      DilemmaSimWeb
-    </a>
-    <p style="margin:6px 0 0 0; color:#D1D5DB; font-size:13px; word-wrap:break-word; overflow-wrap:break-word;">
-      Web-based simulation/interactive project exploring dilemma or decision-making scenarios.
-    </p>
-  </div>
-
-  <div style="display:inline-block; margin:10px; padding:15px 20px; border-radius:18px; border:2px solid #22D3EE; background:#1F2937; box-shadow:0 0 20px rgba(34,211,238,0.3), 0 0 40px rgba(34,211,238,0.1); max-width:480px; min-width:300px; text-align:left; word-wrap:break-word; overflow-wrap:break-word;">
-    <a href="https://github.com/Ujas-Goti/HackHayward-Website" style="color:#9CA3AF; font-size:16px; font-weight:600; text-decoration:none; word-break:break-word;">
-      HackHayward-Website
-    </a>
-    <p style="margin:6px 0 0 0; color:#D1D5DB; font-size:13px; word-wrap:break-word; overflow-wrap:break-word;">
-      Official site for the HackHayward hackathon, supporting 200+ participants, sponsors, and event info.
-    </p>
-  </div>
-
-  </div>
-</details>
-
-<details>
-  <summary>
-    <span style="font-weight:600; color:#22D3EE; cursor:pointer;">📚 Diploma Projects & Early Work</span>
-  </summary>
-  <br/>
-
-  <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:15px;">
-
-  <div style="display:inline-block; margin:10px; padding:15px 20px; border-radius:18px; border:2px solid #22D3EE; background:#1F2937; box-shadow:0 0 20px rgba(34,211,238,0.3), 0 0 40px rgba(34,211,238,0.1); max-width:480px; min-width:300px; text-align:left; word-wrap:break-word; overflow-wrap:break-word;">
-    <a href="https://github.com/Ujas-Goti/Diploma_PHP_MiniProject_COVID19_Vaccine_Registration_Site" style="color:#9CA3AF; font-size:16px; font-weight:600; text-decoration:none; word-break:break-word;">
-      COVID-19 Vaccine Registration Site
-    </a>
-    <p style="margin:6px 0 0 0; color:#D1D5DB; font-size:13px; word-wrap:break-word; overflow-wrap:break-word;">
-      PHP + SQL mini project for managing vaccine registrations and user records.
-    </p>
-  </div>
-
-  <div style="display:inline-block; margin:10px; padding:15px 20px; border-radius:18px; border:2px solid #22D3EE; background:#1F2937; box-shadow:0 0 20px rgba(34,211,238,0.3), 0 0 40px rgba(34,211,238,0.1); max-width:480px; min-width:300px; text-align:left; word-wrap:break-word; overflow-wrap:break-word;">
-    <a href="https://github.com/Ujas-Goti/Diploma_Android_Realtime_Attendance_Manager" style="color:#9CA3AF; font-size:16px; font-weight:600; text-decoration:none; word-break:break-word;">
-      Realtime Attendance Manager (Android)
-    </a>
-    <p style="margin:6px 0 0 0; color:#D1D5DB; font-size:13px; word-wrap:break-word; overflow-wrap:break-word;">
-      Android + Firebase app for real-time attendance tracking with live sync and multi-class support.
-    </p>
-  </div>
-
-  <div style="display:inline-block; margin:10px; padding:15px 20px; border-radius:18px; border:2px solid #22D3EE; background:#1F2937; box-shadow:0 0 20px rgba(34,211,238,0.3), 0 0 40px rgba(34,211,238,0.1); max-width:480px; min-width:300px; text-align:left; word-wrap:break-word; overflow-wrap:break-word;">
-    <a href="https://github.com/Ujas-Goti/Diploma-Mini-Project-PcBuild.com" style="color:#9CA3AF; font-size:16px; font-weight:600; text-decoration:none; word-break:break-word;">
-      PcBuild.com
-    </a>
-    <p style="margin:6px 0 0 0; color:#D1D5DB; font-size:13px; word-wrap:break-word; overflow-wrap:break-word;">
-      Mini project simulating a custom PC build/e-commerce experience.
-    </p>
-  </div>
-
-  <div style="display:inline-block; margin:10px; padding:15px 20px; border-radius:18px; border:2px solid #22D3EE; background:#1F2937; box-shadow:0 0 20px rgba(34,211,238,0.3), 0 0 40px rgba(34,211,238,0.1); max-width:480px; min-width:300px; text-align:left; word-wrap:break-word; overflow-wrap:break-word;">
-    <a href="https://github.com/Ujas-Goti/Diploma-Final-Year-Project" style="color:#9CA3AF; font-size:16px; font-weight:600; text-decoration:none; word-break:break-word;">
-      Diploma Final Year Project
-    </a>
-    <p style="margin:6px 0 0 0; color:#D1D5DB; font-size:13px; word-wrap:break-word; overflow-wrap:break-word;">
-      Final year analytics/dashboard project (e.g., dropout analysis, reporting, and visualization tools).
-    </p>
-  </div>
-
-  </div>
-</details>
-
-<!-- Gradient Divider -->
 <div align="center">
-  <img src="data:image/svg+xml,%3Csvg width='100%25' height='2' xmlns='http://www.w3.org/2000/svg'%3E%3Cdefs%3E%3ClinearGradient id='grad' x1='0%25' y1='0%25' x2='100%25' y2='0%25'%3E%3Cstop offset='0%25' style='stop-color:%23020617;stop-opacity:1' /%3E%3Cstop offset='50%25' style='stop-color:%2322D3EE;stop-opacity:1' /%3E%3Cstop offset='100%25' style='stop-color:%23020617;stop-opacity:1' /%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='100%25' height='2' fill='url(%23grad)' /%3E%3C/svg%3E" alt="Gradient Divider" style="width: 100%; height: 2px;" />
+
+<table>
+<tr>
+<td width="50%" style="padding:15px; background-color:#1F2937; border:2px solid #22D3EE; border-radius:12px; margin:10px;">
+  
+**[AI-agent-tool](https://github.com/Ujas-Goti/AI-agent-tool)**  
+<span style="color:#9CA3AF; font-size:13px;">AI agent that assists with code explanation, documentation generation, and troubleshooting using LLMs (LangChain + Gemini).</span>
+
+</td>
+<td width="50%" style="padding:15px; background-color:#1F2937; border:2px solid #22D3EE; border-radius:12px; margin:10px;">
+  
+**[GoogleADK](https://github.com/Ujas-Goti/GoogleADK)**  
+<span style="color:#9CA3AF; font-size:13px;">Experiments with Google Agent Development Kit, LLM tooling, and cloud-native agent workflows.</span>
+
+</td>
+</tr>
+<tr>
+<td width="50%" style="padding:15px; background-color:#1F2937; border:2px solid #22D3EE; border-radius:12px; margin:10px;">
+  
+**[restack_weaviate_curriculum](https://github.com/Ujas-Goti/restack_weaviate_curriculum)**  
+<span style="color:#9CA3AF; font-size:13px;">Vector DB + AI experiments with Weaviate, retrieval pipelines, and curriculum-style learning.</span>
+
+</td>
+</tr>
+</table>
+
 </div>
+
+</details>
+
+<details>
+  <summary>
+    <b style="color:#22D3EE;">🛰 Systems & Scalable Backends</b>
+  </summary>
+  <br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" style="padding:15px; background-color:#1F2937; border:2px solid #22D3EE; border-radius:12px; margin:10px;">
+  
+**[CS401_Group-4_Communications_System](https://github.com/Ujas-Goti/CS401_Group-4_Communications_System)**  
+<span style="color:#9CA3AF; font-size:13px;">Java TCP/IP client-server communication system with real-time + asynchronous messaging and scalable design.</span>
+
+</td>
+<td width="50%" style="padding:15px; background-color:#1F2937; border:2px solid #22D3EE; border-radius:12px; margin:10px;">
+  
+**[obbs-main](https://github.com/Ujas-Goti/obbs-main)**  
+<span style="color:#9CA3AF; font-size:13px;">Backend / systems project focusing on structured services, modular design, and robust business logic.</span>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+</details>
+
+<details>
+  <summary>
+    <b style="color:#22D3EE;">🌐 Web Apps, Portfolio & Hackathon Work</b>
+  </summary>
+  <br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" style="padding:15px; background-color:#1F2937; border:2px solid #22D3EE; border-radius:12px; margin:10px;">
+  
+**[ujasgotiportfolio](https://github.com/Ujas-Goti/ujasgotiportfolio)**  
+<span style="color:#9CA3AF; font-size:13px;">Personal developer portfolio showcasing projects, skills, and experience with a modern UI.</span>
+
+</td>
+<td width="50%" style="padding:15px; background-color:#1F2937; border:2px solid #22D3EE; border-radius:12px; margin:10px;">
+  
+**[DilemmaSimWeb](https://github.com/Ujas-Goti/DilemmaSimWeb)**  
+<span style="color:#9CA3AF; font-size:13px;">Web-based simulation/interactive project exploring dilemma or decision-making scenarios.</span>
+
+</td>
+</tr>
+<tr>
+<td width="50%" style="padding:15px; background-color:#1F2937; border:2px solid #22D3EE; border-radius:12px; margin:10px;">
+  
+**[HackHayward-Website](https://github.com/Ujas-Goti/HackHayward-Website)**  
+<span style="color:#9CA3AF; font-size:13px;">Official site for the HackHayward hackathon, supporting 200+ participants, sponsors, and event info.</span>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+</details>
+
+<details>
+  <summary>
+    <b style="color:#22D3EE;">📚 Diploma Projects & Early Work</b>
+  </summary>
+  <br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" style="padding:15px; background-color:#1F2937; border:2px solid #22D3EE; border-radius:12px; margin:10px;">
+  
+**[COVID-19 Vaccine Registration Site](https://github.com/Ujas-Goti/Diploma_PHP_MiniProject_COVID19_Vaccine_Registration_Site)**  
+<span style="color:#9CA3AF; font-size:13px;">PHP + SQL mini project for managing vaccine registrations and user records.</span>
+
+</td>
+<td width="50%" style="padding:15px; background-color:#1F2937; border:2px solid #22D3EE; border-radius:12px; margin:10px;">
+  
+**[Realtime Attendance Manager (Android)](https://github.com/Ujas-Goti/Diploma_Android_Realtime_Attendance_Manager)**  
+<span style="color:#9CA3AF; font-size:13px;">Android + Firebase app for real-time attendance tracking with live sync and multi-class support.</span>
+
+</td>
+</tr>
+<tr>
+<td width="50%" style="padding:15px; background-color:#1F2937; border:2px solid #22D3EE; border-radius:12px; margin:10px;">
+  
+**[PcBuild.com](https://github.com/Ujas-Goti/Diploma-Mini-Project-PcBuild.com)**  
+<span style="color:#9CA3AF; font-size:13px;">Mini project simulating a custom PC build/e-commerce experience.</span>
+
+</td>
+<td width="50%" style="padding:15px; background-color:#1F2937; border:2px solid #22D3EE; border-radius:12px; margin:10px;">
+  
+**[Diploma Final Year Project](https://github.com/Ujas-Goti/Diploma-Final-Year-Project)**  
+<span style="color:#9CA3AF; font-size:13px;">Final year analytics/dashboard project (e.g., dropout analysis, reporting, and visualization tools).</span>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+</details>
+
+---
 
 ## 📊 Neon GitHub Stats (All Commits)
 
@@ -254,10 +236,7 @@ I love building things that **actually solve problems**, leading developer commu
   <img src="https://streak-stats.demolab.com?user=Ujas-Goti&theme=tokyonight&border=22D3EE" />
 </p>
 
-<!-- Gradient Divider -->
-<div align="center">
-  <img src="data:image/svg+xml,%3Csvg width='100%25' height='2' xmlns='http://www.w3.org/2000/svg'%3E%3Cdefs%3E%3ClinearGradient id='grad' x1='0%25' y1='0%25' x2='100%25' y2='0%25'%3E%3Cstop offset='0%25' style='stop-color:%23020617;stop-opacity:1' /%3E%3Cstop offset='50%25' style='stop-color:%2322D3EE;stop-opacity:1' /%3E%3Cstop offset='100%25' style='stop-color:%23020617;stop-opacity:1' /%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='100%25' height='2' fill='url(%23grad)' /%3E%3C/svg%3E" alt="Gradient Divider" style="width: 100%; height: 2px;" />
-</div>
+---
 
 ## 🧠 Experience
 
@@ -279,10 +258,7 @@ I love building things that **actually solve problems**, leading developer commu
 - Contributed to SaaS ERP products like Ideas Hub and Short GOURL.  
 - Developed backend APIs using **Java** and **Python**.  
 
-<!-- Gradient Divider -->
-<div align="center">
-  <img src="data:image/svg+xml,%3Csvg width='100%25' height='2' xmlns='http://www.w3.org/2000/svg'%3E%3Cdefs%3E%3ClinearGradient id='grad' x1='0%25' y1='0%25' x2='100%25' y2='0%25'%3E%3Cstop offset='0%25' style='stop-color:%23020617;stop-opacity:1' /%3E%3Cstop offset='50%25' style='stop-color:%2322D3EE;stop-opacity:1' /%3E%3Cstop offset='100%25' style='stop-color:%23020617;stop-opacity:1' /%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='100%25' height='2' fill='url(%23grad)' /%3E%3C/svg%3E" alt="Gradient Divider" style="width: 100%; height: 2px;" />
-</div>
+---
 
 ## 🎓 Education
 
@@ -292,10 +268,7 @@ I love building things that **actually solve problems**, leading developer commu
 **Gujarat Technological University** — *Diploma in Information Technology*  
 📍 Surat, India · *Aug 2019 – May 2022* · GPA: **9.8 / 10**
 
-<!-- Gradient Divider -->
-<div align="center">
-  <img src="data:image/svg+xml,%3Csvg width='100%25' height='2' xmlns='http://www.w3.org/2000/svg'%3E%3Cdefs%3E%3ClinearGradient id='grad' x1='0%25' y1='0%25' x2='100%25' y2='0%25'%3E%3Cstop offset='0%25' style='stop-color:%23020617;stop-opacity:1' /%3E%3Cstop offset='50%25' style='stop-color:%2322D3EE;stop-opacity:1' /%3E%3Cstop offset='100%25' style='stop-color:%23020617;stop-opacity:1' /%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='100%25' height='2' fill='url(%23grad)' /%3E%3C/svg%3E" alt="Gradient Divider" style="width: 100%; height: 2px;" />
-</div>
+---
 
 ## 📡 Connect With Me
 
@@ -311,10 +284,7 @@ I love building things that **actually solve problems**, leading developer commu
   </a>
 </p>
 
-<!-- Gradient Divider -->
-<div align="center">
-  <img src="data:image/svg+xml,%3Csvg width='100%25' height='2' xmlns='http://www.w3.org/2000/svg'%3E%3Cdefs%3E%3ClinearGradient id='grad' x1='0%25' y1='0%25' x2='100%25' y2='0%25'%3E%3Cstop offset='0%25' style='stop-color:%23020617;stop-opacity:1' /%3E%3Cstop offset='50%25' style='stop-color:%2322D3EE;stop-opacity:1' /%3E%3Cstop offset='100%25' style='stop-color:%23020617;stop-opacity:1' /%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='100%25' height='2' fill='url(%23grad)' /%3E%3C/svg%3E" alt="Gradient Divider" style="width: 100%; height: 2px;" />
-</div>
+---
 
 <p align="center">
   <i>⭐ Thanks for scrolling! If something here resonated, feel free to reach out or star a repo — it means a lot 🙂</i>
