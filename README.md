@@ -24,7 +24,7 @@ I love building things that **actually solve problems**, leading developer commu
 
 ---
 
-## ✨ Tech Stack (Neon-ish)
+## ✨ Tech Stack 
 
 <p align="center">
   <!-- Languages -->
@@ -69,7 +69,7 @@ I love building things that **actually solve problems**, leading developer commu
 
 ---
 
-## 🛰 Neon Projects Hub
+## 🛰 Repositories
 
 <p align="center">
   <i>Some of the things I've been building.</i>
