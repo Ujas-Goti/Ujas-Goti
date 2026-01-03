@@ -79,7 +79,7 @@ I love building things that **actually solve problems**, leading developer commu
 
   <!-- Row 1 -->
   <a href="https://github.com/Ujas-Goti/Cross-Agent-Shared-Memory">
-    <img src="https://img.shields.io/badge/AI--agent--tool-111827?style=for-the-badge&logo=github&logoColor=22D3EE" />
+    <img src="https://img.shields.io/badge/Cross--Agent--Memory-111827?style=for-the-badge&logo=github&logoColor=22D3EE" />
   </a>
   <a href="https://github.com/Ujas-Goti/AI-agent-tool">
     <img src="https://img.shields.io/badge/AI--agent--tool-111827?style=for-the-badge&logo=github&logoColor=22D3EE" />
